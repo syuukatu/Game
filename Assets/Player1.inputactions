@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Player1",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "5aa5dd80-f068-4403-94e2-93fe5f3c3254",
+            "actions": [
+                {
+                    "name": "ScrollWheel",
+                    "type": "Value",
+                    "id": "6d730ca1-02de-474c-a18e-017dc808575d",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4bb484c0-12f0-4ad9-babd-4b28fbc55ddb",
+                    "path": "<Mouse>/scroll",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ScrollWheel",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

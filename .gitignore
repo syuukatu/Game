@@ -73,3 +73,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/NotoSansJP-VariableFont_wght SDF1.asset
+Assets/NotoSansJP-VariableFont_wght SDF.asset
+Assets/Text Asset/
+Assets/TutorialInfo/
+Assets/StarterAssets/
+Assets/StarterAssets.meta/
