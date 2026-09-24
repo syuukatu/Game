@@ -58,7 +58,7 @@
 
 # 
 
-# \## 注意事項
+# \## 使用アセット
 
 # このプロジェクトではUnity Starter AssetsとNoto Sans JPを使用しています。
 
