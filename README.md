@@ -60,11 +60,19 @@
 
 # \## 使用アセット
 
-# このプロジェクトではUnity Starter AssetsとNoto Sans JPを使用しています。
+# 使用アセット：Starter Assets: Third Person Controller
+
+# ライセンス：Unity Companion License
+
+# ライセンス： https://unity3d.com/legal/licenses/Unity\_Companion\_License
+
+
 
 # フォント：Noto Sans JP
 
-# ライセンス：SIL Open Font License 1.1 (OFL-1.1)使用しています。
+# ライセンス：SIL Open Font License 1.1 (OFL-1.1)https://openfontlicense.org/
+
+
 
 # Unity Starter Assetsなど、一部の外部アセットは
 
