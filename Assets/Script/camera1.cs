@@ -166,6 +166,8 @@ public class camera1 : MonoBehaviour
         Gamedata.k = 0;
         Gamedata.mozi = 0;
         Gamedata.Input = null;
+        Gamedata.playefrg = false;
+        Gamedata.Playerfrg = false;
         SceneManager.LoadScene(0);
     }
     public void Operation()

@@ -38,7 +38,7 @@ public class camera3 : MonoBehaviour
             GameObject text = Instantiate(textPrefab, contentTransform);
             text.GetComponentInChildren<TMP_Text>().text = "セーブデータがありません。";
         }
-        Modotext.text = "モード:選択";
+        Modotext.text = "Ctrl+D:モード:選択";
     }
 
     // Update is called once per frame
@@ -47,12 +47,12 @@ public class camera3 : MonoBehaviour
         key = inputScript.Input();
         if (key== "CtrlD" && Gamedata.delete==false)
         {
-            Modotext.text = "モード:削除";
+            Modotext.text = "Ctrl+D:モード:削除";
             Gamedata.ModoChange();
         }
         else if(key == "CtrlD" && Gamedata.delete == true)
         {
-            Modotext.text = "モード:選択";
+            Modotext.text = "Ctrl+D:モード:選択";
             Gamedata.ModoChange();
         }
     }
