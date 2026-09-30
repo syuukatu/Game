@@ -72,14 +72,6 @@
 
 # ライセンス：SIL Open Font License 1.1 (OFL-1.1)https://openfontlicense.org/
 
-# フォント：Noto Sans JP
-
-# ライセンス：Apache License 2.0
-
-# https://apache.org/licenses/LICENSE-2.0
-
-
-
 
 
 # Unity Starter Assetsなど、一部の外部アセットは
